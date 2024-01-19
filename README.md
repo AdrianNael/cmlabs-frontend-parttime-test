@@ -14,3 +14,9 @@ npm run dev
 
 ```sh
 localhost:<your-port-in-terminal>
+```
+
+### Link Deploy Netlify
+```sh
+https://main--dancing-eclair-604b2f.netlify.app/
+```
